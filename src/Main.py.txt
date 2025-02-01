@@ -1,0 +1,17 @@
+
+soln_str = ""
+
+inp_str_1_1 = "1 2 3 4 5"
+inp_str_1_2 = "3"
+out_str_1 = "3 6 12 15"
+
+inp_str_2_1 = "8 37 -4 26 8 1 88 9"
+inp_str_2_2 = "8"
+out_str_2 = "296 -32 208 8 704 72"
+# DO_NOT_EDIT_ANYTHING_ABOVE_THIS_LINE
+
+
+
+# DO_NOT_EDIT_ANYTHING_BELOW_THIS_LINE
+print(soln_str)
+
